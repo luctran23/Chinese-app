@@ -108,7 +108,7 @@ export default function App() {
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
           <h1 className="text-xl font-bold text-emerald-700 flex items-center gap-2">
             <BookOpen className="w-6 h-6" />
-            <span>Học Tiếng Trung</span>
+            <span>Học Tiếng Trung Cùng Thanh Thảo</span>
           </h1>
           <nav className="flex gap-1 bg-stone-100 p-1 rounded-lg">
             <button 
