@@ -1,5 +1,5 @@
 export interface Word {
-  id: number;
+  id: string | number;
   chinese: string;
   pinyin: string;
   vietnamese: string;
